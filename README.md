@@ -1,4 +1,4 @@
-# Artifact Screenshots
+# Screenshots
 
 </br>
 
