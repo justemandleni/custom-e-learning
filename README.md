@@ -1,7 +1,7 @@
 # Custom-e-Learning
 
 ### Description
-I made this along with seven other artifacts under a contract which commenced in September 2019. You are welcome to download this sample. Download this repository, extract its contents then navigate to the <b>raw</b> folder within the <b>hmtl</b> folder and open a file named <b>contents</b> using your favorite web browser (preferably Google Chrome) to explore the entire solution.
+I made this along with seven other artifacts under a contract which commenced in September 2019. You are welcome to download this sample. Download this repository, extract its contents then navigate to the <b>'raw'</b> folder within the <b>'hmtl'</b> folder and open <b>'contents.html'</b> using your favorite web browser (Google Chrome, ideally; if possible) to explore the entire solution.
 
 
 
