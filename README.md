@@ -18,3 +18,7 @@ I made this along with seven other artifacts under a contract which commenced in
 ![iPad Air 2](https://user-images.githubusercontent.com/26520289/74530037-cc6e6480-4f31-11ea-9998-df83b5103001.png)
 
 ![iPhone 6 3 Feedback](https://user-images.githubusercontent.com/26520289/74530040-ced0be80-4f31-11ea-9bb2-cda78aa36e57.png)
+
+![_C__Users_justEmandleni_Desktop_clean_Patch_Grade%2012%20Life%20Sciences%20Textbook%20Final_html_raw_contents html(Galaxy S5)](https://user-images.githubusercontent.com/26520289/74531429-4b18d100-4f35-11ea-800f-32cea57c3147.png)
+
+![_C__Users_justEmandleni_Desktop_clean_Patch_Grade%2012%20Life%20Sciences%20Textbook%20Final_html_raw_s947dn xhtml(Galaxy S5)](https://user-images.githubusercontent.com/26520289/74531440-51a74880-4f35-11ea-8393-6eb9f9b6844d.png)
