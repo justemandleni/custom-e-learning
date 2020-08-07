@@ -1,7 +1,7 @@
-# Custom-e-Learning
+# Custom-e-Learning Solution
 
 ### Description
-This sample is one of eight artefacts developed under a contract which commenced in September 2019. You are welcome to clone/ download this to view the code and the development agreement. After downloading the repo, extract the contents then navigate to the <b>'raw'</b> folder within the <b>'hmtl'</b> folder and open <b>'contents.html'</b> using your favorite web browser (Google Chrome, ideally; if possible) to explore the entire solution.
+This sample is one of eight artefacts delivered under a contract which commenced in September 2019. You are welcome to clone/ download this repo to view the code or sift through the development agreement. Upon downloading, extract the contents then navigate to the <b>'raw'</b> folder within the <b>'hmtl'</b> folder and open <b>'contents.html'</b> using your favorite web browser (Google Chrome, ideally; if possible) to explore the entire solution.
 
 
 
