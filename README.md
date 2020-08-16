@@ -5,7 +5,7 @@ One of eight artefacts delivered under a contract which commenced in September 2
 
 </br>
 
-### Screenshots
+### 
 
 ![Samsung Galaxy Tab 10 1](https://user-images.githubusercontent.com/26520289/74530251-4999d980-4f32-11ea-8b60-7437205b311a.png)
 
