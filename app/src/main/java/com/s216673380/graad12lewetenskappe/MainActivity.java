@@ -20,6 +20,8 @@ public class MainActivity extends AppCompatActivity {
 
         mWebView = findViewById(R.id.webView);
         mWebView.getSettings().setJavaScriptEnabled(true);
+        mWebView.getSettings().setSupportZoom(true);
+        mWebView.getSettings().setUseWideViewPort(false);
         mWebView.getSettings().setCacheMode(WebSettings.LOAD_NO_CACHE);
         mWebView.loadUrl("file:///android_asset/html/raw/contents.html");
         mWebView.getSettings().setSupportZoom(true);
