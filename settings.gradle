@@ -1,0 +1,2 @@
+rootProject.name='Graad 12 Lewetenskappe'
+include ':app'
