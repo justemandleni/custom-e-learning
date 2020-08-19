@@ -23,14 +23,12 @@ public class MainActivity extends AppCompatActivity {
         mWebView.getSettings().setJavaScriptEnabled(true);
         mWebView.getSettings().setLoadsImagesAutomatically(true);
         mWebView.loadUrl("file:///android_asset/html/raw/contents.html");
-        if(savedInstanceState==null){
+        if(savedInstanceState==null)
             mWebView.post(new Runnable() {
                 @Override
-                public void run() {
-                    mWebView.loadUrl("file:///android_asset/html/raw/contents.html");
+                public void run() { mWebView.loadUrl("file:///android_asset/html/raw/contents.html");
                 }
             });
-        }
     }
 
     @Override

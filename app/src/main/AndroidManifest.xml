@@ -10,12 +10,12 @@
             android:usesCleartextTraffic="true"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
+
         <activity
-                android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+                android:configChanges="orientation"
                 android:name="com.s216673380.graad11lewetenskappe.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
-
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
