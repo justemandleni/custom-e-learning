@@ -1,4 +1,4 @@
-package com.s216673380.graad12lewetenskappe;
+package com.s216673380.graad11lewetenskappe;
 
 import android.content.Context;
 import androidx.test.platform.app.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.s216673380.graad12lewetenskappe", appContext.getPackageName());
+        assertEquals("com.s216673380.graad11lewetenskappe", appContext.getPackageName());
     }
 }

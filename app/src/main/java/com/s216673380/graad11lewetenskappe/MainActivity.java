@@ -1,17 +1,14 @@
-package com.s216673380.graad12lewetenskappe;
+package com.s216673380.graad11lewetenskappe;
 
 import android.content.DialogInterface;
+import android.os.Bundle;
 import android.view.KeyEvent;
-import android.webkit.WebResourceRequest;
-import android.webkit.WebSettings;
 import android.webkit.WebView;
-import android.webkit.WebViewClient;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
-import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
-    WebView mWebView;
+    private WebView mWebView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -20,11 +17,8 @@ public class MainActivity extends AppCompatActivity {
 
         mWebView = findViewById(R.id.webView);
         mWebView.getSettings().setJavaScriptEnabled(true);
-        mWebView.getSettings().setSupportZoom(true);
-        mWebView.getSettings().setUseWideViewPort(false);
-        mWebView.getSettings().setCacheMode(WebSettings.LOAD_NO_CACHE);
+        mWebView.getSettings().setLoadsImagesAutomatically(true);
         mWebView.loadUrl("file:///android_asset/html/raw/contents.html");
-        mWebView.getSettings().setSupportZoom(true);
     }
 
     @Override

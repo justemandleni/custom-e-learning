@@ -1,4 +1,4 @@
-package com.s216673380.graad12lewetenskappe;
+package com.s216673380.graad11lewetenskappe;
 
 import org.junit.Test;
 
