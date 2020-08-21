@@ -1,7 +1,7 @@
 # A custom eLearning solution
 
 ### Description
-One of eight artefacts.
+A fluid approach to render interactive learning material. Delivering engaging content online and offline. Retains the interactive elements, thus allowing learning to take place anytime and anywhere, via a web interface or through a native android application.
 
 </br>
 
