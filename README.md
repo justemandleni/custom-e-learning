@@ -1,7 +1,6 @@
-# A custom eLearning solution
 
 ### Description
-A fluid approach to render interactive learning material. Delivering engaging content online and offline. Retains the interactive elements, thus allowing learning to take place anytime and anywhere, via a web interface or through a native android application.
+A fluid approach to render learning material. Delivering engaging content online (web interface) or offline (native mobile application) whilst retaining all interactive elements. Solution enables learning to take place anytime and anywhere.
 
 </br>
 
