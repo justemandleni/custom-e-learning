@@ -1,7 +1,7 @@
-# Custom-e-Learning Solution
+# A custom eLearning solution
 
 ### Description
-One of eight artefacts delivered under a contract which commenced in September 2019.
+One of eight artefacts.
 
 </br>
 
