@@ -12,7 +12,7 @@
             android:theme="@style/AppTheme">
         
         <activity
-                android:configChanges="orientation"
+                android:configChanges="orientation|screenSize"
                 android:name="com.s216673380.graad11lewetenskappe.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
