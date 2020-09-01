@@ -1,6 +1,6 @@
 
 ### Description
-A fluid approach to render learning material. Delivering engaging content online (web interface) or offline (native mobile application) whilst retaining all interactive elements. Solution enables learning to take place anytime and anywhere.
+A fluid approach to render learning material. Delivering engaging content online (via web interface) or offline (native mobile application) whilst retaining all interactive elements. Solution enables learning to take place anytime and anywhere.
 
 </br>
 
