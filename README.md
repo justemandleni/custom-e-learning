@@ -1,6 +1,6 @@
 
 ### Description
-A custom e-learning solution that delivers engaging content using a web interface or on a native mobile application. A fluid approach to render interactive learning material.. 
+A custom e-learning solution that delivers engaging content. The contents of this repo include sample artefact source code as well as a censored version of the development agreement.
 
 </br>
 
